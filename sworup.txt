@@ -1,0 +1,16 @@
+# # MEMBERSHIP OPERATOR: check a data exists in a sequential datatype(group datatype, string)
+
+# a ="Membership"
+ 
+# # IN OPERATOR: output: True if data exists in sequence, False otherwise
+# print("d" in a)
+# print("b" in a)
+
+# # NOT IN OPERATOR: output: False if data exists in sequence, True otherwise
+# print ("b" not in a)
+
+
+
+fruits = ["Apple","Banana","Mango","Orange","Grapes","Pineapple","Papaya","Watermelon","Strawberry","Kiwi"]
+print("Mango" in fruits)
+print("Mango" not in fruits)
